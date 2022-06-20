@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vergessen/static/css/main.073c9b0a.css",
+    "main.js": "/vergessen/static/js/main.b092f8d6.js",
+    "static/js/787.4695912e.chunk.js": "/vergessen/static/js/787.4695912e.chunk.js",
+    "static/media/logo.svg": "/vergessen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vergessen/index.html",
+    "main.073c9b0a.css.map": "/vergessen/static/css/main.073c9b0a.css.map",
+    "main.b092f8d6.js.map": "/vergessen/static/js/main.b092f8d6.js.map",
+    "787.4695912e.chunk.js.map": "/vergessen/static/js/787.4695912e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b092f8d6.js"
+  ]
+}
